@@ -5,6 +5,7 @@ public class Main {
 
     public static void main(String[] args) {
         int number = 7;
+        int v;gitt
         number = increase(number);
         print(number);
         int x;
