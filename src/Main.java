@@ -8,4 +8,8 @@ public class Main {
         return number + 3;
     }
 
+    static void print(int number){
+        System.out.println(number);
+    }
+
 }
