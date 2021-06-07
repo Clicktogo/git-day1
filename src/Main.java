@@ -5,7 +5,7 @@ public class Main {
     }
 
     static int increase(int number){
-        return number + 1;
+        return number + 2;
     }
 
 }
